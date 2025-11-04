@@ -1,0 +1,305 @@
+[
+  {
+    "id": "7332c086-501f-4b40-8b75-9437459467e1",
+    "title": {
+      "he_text": "קומבינטוריקה - האוניברסיטה הפתוחה",
+      "en_text": "Combinatorics - The Open University"
+    },
+    "prerequisites": [],
+    "parents": []
+  },
+  {
+    "id": "5c83d03e-d6d1-4f90-85f5-a6f3ca8798d6",
+    "title": {
+      "he_text": "עקרון החיבור ועקרון הכפל",
+      "en_text": "Addition and Multiplication Principles"
+    },
+    "prerequisites": [],
+    "parents": ["7332c086-501f-4b40-8b75-9437459467e1"]
+  },
+  {
+    "id": "3e04b402-be97-4b02-b477-672a7cbb4130",
+    "title": {
+      "he_text": "כמה בעיות ספירה פשוטות",
+      "en_text": "Some Simple Counting Problems"
+    },
+    "prerequisites": [],
+    "parents": ["5c83d03e-d6d1-4f90-85f5-a6f3ca8798d6"]
+  },
+  {
+    "id": "46f09ade-4911-49e0-9a61-6321bac6060a",
+    "title": {
+      "he_text": "עקרון החיבור",
+      "en_text": "Addition Principle"
+    },
+    "prerequisites": [],
+    "parents": ["5c83d03e-d6d1-4f90-85f5-a6f3ca8798d6"]
+  },
+  {
+    "id": "1e9daa6d-e773-4e59-90bf-86fa6e13acfa",
+    "title": {
+      "he_text": "עקרון הכפל",
+      "en_text": "Multiplication Principle"
+    },
+    "prerequisites": [],
+    "parents": ["5c83d03e-d6d1-4f90-85f5-a6f3ca8798d6"]
+  },
+  {
+    "id": "d43c50ad-3ea6-4085-ae93-36f4adcf4c44",
+    "title": {
+      "he_text": "חליפות, תמורות וצירופים",
+      "en_text": "Permutations and Combinations"
+    },
+    "prerequisites": ["5c83d03e-d6d1-4f90-85f5-a6f3ca8798d6"],
+    "parents": ["7332c086-501f-4b40-8b75-9437459467e1"]
+  },
+  {
+    "id": "2cef6eac-4e3b-4588-a06a-f7a964d64400",
+    "title": {
+      "he_text": "חליפות ותמורות",
+      "en_text": "Permutations and Arrangements"
+    },
+    "prerequisites": [],
+    "parents": ["d43c50ad-3ea6-4085-ae93-36f4adcf4c44"]
+  },
+  {
+    "id": "19805d8c-de2e-49c1-967c-f790c88eccb9",
+    "title": {
+      "he_text": "תמורות",
+      "en_text": "Permutations"
+    },
+    "prerequisites": [],
+    "parents": ["2cef6eac-4e3b-4588-a06a-f7a964d64400"]
+  },
+  {
+    "id": "c509b30f-5b1e-4de8-8bfe-c2f64544d782",
+    "title": {
+      "he_text": "צירופים",
+      "en_text": "Combinations"
+    },
+    "prerequisites": [],
+    "parents": ["d43c50ad-3ea6-4085-ae93-36f4adcf4c44"]
+  },
+  {
+    "id": "2c20ca57-f4b3-43cf-8cdc-3012710a42f2",
+    "title": {
+      "he_text": "חליפות ותמורות עם חזרות",
+      "en_text": "Permutations with Repetitions"
+    },
+    "prerequisites": [],
+    "parents": ["d43c50ad-3ea6-4085-ae93-36f4adcf4c44"]
+  },
+  {
+    "id": "4fbdc885-002a-46a8-96f5-adf3c431e667",
+    "title": {
+      "he_text": "צירופים עם חזרות",
+      "en_text": "Combinations with Repetitions"
+    },
+    "prerequisites": [],
+    "parents": ["d43c50ad-3ea6-4085-ae93-36f4adcf4c44"]
+  },
+  {
+    "id": "2850e756-fe07-46a7-8e95-156556562aff",
+    "title": {
+      "he_text": "מבחר בעיות",
+      "en_text": "Selected Problems"
+    },
+    "prerequisites": [],
+    "parents": ["d43c50ad-3ea6-4085-ae93-36f4adcf4c44"]
+  },
+  {
+    "id": "3593723a-5e0b-4e77-bb46-0fbf2cf7dd5e",
+    "title": {
+      "he_text": "הבינום של ניוטון; המקדמים הבינומיים",
+      "en_text": "Newton's Binomial Theorem; Binomial Coefficients"
+    },
+    "prerequisites": ["d43c50ad-3ea6-4085-ae93-36f4adcf4c44"],
+    "parents": ["7332c086-501f-4b40-8b75-9437459467e1"]
+  },
+  {
+    "id": "fe24ff26-ccb1-41b9-bb19-0fe40b99d288",
+    "title": {
+      "he_text": "נוסחת הבינום; משולש פסקל",
+      "en_text": "Binomial Formula; Pascal's Triangle"
+    },
+    "prerequisites": [],
+    "parents": ["3593723a-5e0b-4e77-bb46-0fbf2cf7dd5e"]
+  },
+  {
+    "id": "64ce599e-b6c0-451d-a984-dd4ea4518962",
+    "title": {
+      "he_text": "תכונות של המקדמים הבינומיים",
+      "en_text": "Properties of Binomial Coefficients"
+    },
+    "prerequisites": [],
+    "parents": ["3593723a-5e0b-4e77-bb46-0fbf2cf7dd5e"]
+  },
+  {
+    "id": "7fddf8e9-4859-4c47-a895-5e6bb400032c",
+    "title": {
+      "he_text": "פיתוח מולטינומי",
+      "en_text": "Multinomial Expansion"
+    },
+    "prerequisites": [],
+    "parents": ["64ce599e-b6c0-451d-a984-dd4ea4518962"]
+  },
+  {
+    "id": "2d2686c7-3241-4f52-adc0-d31016804910",
+    "title": {
+      "he_text": "עקרון ההכלה וההפרדה",
+      "en_text": "Inclusion-Exclusion Principle"
+    },
+    "prerequisites": [
+      "5c83d03e-d6d1-4f90-85f5-a6f3ca8798d6",
+      "d43c50ad-3ea6-4085-ae93-36f4adcf4c44"
+    ],
+    "parents": ["7332c086-501f-4b40-8b75-9437459467e1"]
+  },
+  {
+    "id": "086aaca7-9c5f-4ac7-a868-e20780abd3fa",
+    "title": {
+      "he_text": "המקרה הכללי",
+      "en_text": "The General Case"
+    },
+    "prerequisites": [],
+    "parents": ["2d2686c7-3241-4f52-adc0-d31016804910"]
+  },
+  {
+    "id": "bf643fba-2aab-485c-aa42-bd20f32765cb",
+    "title": {
+      "he_text": "אי-סדר מלא",
+      "en_text": "Derangements"
+    },
+    "prerequisites": [],
+    "parents": ["086aaca7-9c5f-4ac7-a868-e20780abd3fa"]
+  },
+  {
+    "id": "0609d355-ac3a-46ba-bb4d-c3d2cc1071af",
+    "title": {
+      "he_text": "הפונקציה של אוילר",
+      "en_text": "Euler's Phi Function"
+    },
+    "prerequisites": [],
+    "parents": ["086aaca7-9c5f-4ac7-a868-e20780abd3fa"]
+  },
+  {
+    "id": "8951dd0d-ae46-4af2-9cd0-d845131dfdf2",
+    "title": {
+      "he_text": "משוואות לינאריות עם פתרונות במספרים שלמים",
+      "en_text": "Linear Equations with Integer Solutions"
+    },
+    "prerequisites": [],
+    "parents": ["086aaca7-9c5f-4ac7-a868-e20780abd3fa"]
+  },
+  {
+    "id": "ac4cb96e-1d51-4e69-a8bf-ee9c2a1dd2d0",
+    "title": {
+      "he_text": "המקרה הכללי – המשך",
+      "en_text": "The General Case - Continued"
+    },
+    "prerequisites": [],
+    "parents": ["2d2686c7-3241-4f52-adc0-d31016804910"]
+  },
+  {
+    "id": "35d2f54e-dfff-4a60-90fb-ee8cbe5c745f",
+    "title": {
+      "he_text": "עקרון שובך היונים – הגדרה ושימושים",
+      "en_text": "Pigeonhole Principle - Definition and Applications"
+    },
+    "prerequisites": ["5c83d03e-d6d1-4f90-85f5-a6f3ca8798d6"],
+    "parents": ["7332c086-501f-4b40-8b75-9437459467e1"]
+  },
+  {
+    "id": "bde22a7c-d6db-4629-9673-f0fb0963a631",
+    "title": {
+      "he_text": "רקורסיה",
+      "en_text": "Recursion"
+    },
+    "prerequisites": ["d43c50ad-3ea6-4085-ae93-36f4adcf4c44"],
+    "parents": ["7332c086-501f-4b40-8b75-9437459467e1"]
+  },
+  {
+    "id": "6a419bb5-d51c-4c03-9707-074825faf514",
+    "title": {
+      "he_text": "הגדרה ודוגמאות",
+      "en_text": "Definition and Examples"
+    },
+    "prerequisites": [],
+    "parents": ["bde22a7c-d6db-4629-9673-f0fb0963a631"]
+  },
+  {
+    "id": "e813cdcd-090a-4bfd-b28c-e0361bd55783",
+    "title": {
+      "he_text": "פתרון בעיות קומבינטוריות באמצעות רקורסיה",
+      "en_text": "Solving Combinatorial Problems Using Recursion"
+    },
+    "prerequisites": [],
+    "parents": ["bde22a7c-d6db-4629-9673-f0fb0963a631"]
+  },
+  {
+    "id": "c33e2251-9255-4570-a98c-f565d579fe1b",
+    "title": {
+      "he_text": "פתרון של יחסי רקורסיה לינאריים",
+      "en_text": "Solving Linear Recurrence Relations"
+    },
+    "prerequisites": [],
+    "parents": ["bde22a7c-d6db-4629-9673-f0fb0963a631"]
+  },
+  {
+    "id": "0185e0f8-73a7-4797-bb13-71e3cc4efc8d",
+    "title": {
+      "he_text": "פונקציות יוצרות",
+      "en_text": "Generating Functions"
+    },
+    "prerequisites": [
+      "3593723a-5e0b-4e77-bb46-0fbf2cf7dd5e",
+      "bde22a7c-d6db-4629-9673-f0fb0963a631"
+    ],
+    "parents": ["7332c086-501f-4b40-8b75-9437459467e1"]
+  },
+  {
+    "id": "0c91996c-334b-456a-aee3-42f37db6c8b5",
+    "title": {
+      "he_text": "הגדרה של פונקציה יוצרת",
+      "en_text": "Definition of Generating Function"
+    },
+    "prerequisites": [],
+    "parents": ["0185e0f8-73a7-4797-bb13-71e3cc4efc8d"]
+  },
+  {
+    "id": "ee95f92c-809f-4a2d-8b6c-336d8fdf1ceb",
+    "title": {
+      "he_text": "שימושים של פונקציות יוצרות למציאת מספר הפתרונות של משוואות לינאריות",
+      "en_text": "Using Generating Functions to Find Number of Solutions to Linear Equations"
+    },
+    "prerequisites": [],
+    "parents": ["0185e0f8-73a7-4797-bb13-71e3cc4efc8d"]
+  },
+  {
+    "id": "0ca52d04-fb77-4de5-b7a7-748787408289",
+    "title": {
+      "he_text": "שימוש בפונקציות יוצרות לחישובים במקדמים בינומיים",
+      "en_text": "Using Generating Functions for Binomial Coefficient Calculations"
+    },
+    "prerequisites": [],
+    "parents": ["0185e0f8-73a7-4797-bb13-71e3cc4efc8d"]
+  },
+  {
+    "id": "7f6b41c7-8c44-403b-ae00-8aaf806d5d37",
+    "title": {
+      "he_text": "פונקציות יוצרות מעריכיות",
+      "en_text": "Exponential Generating Functions"
+    },
+    "prerequisites": [],
+    "parents": ["0185e0f8-73a7-4797-bb13-71e3cc4efc8d"]
+  },
+  {
+    "id": "da766341-fa92-4249-8067-1e6b58d1b72c",
+    "title": {
+      "he_text": "שימוש בפונקציות יוצרות לפתרון יחסי רקורסיה",
+      "en_text": "Using Generating Functions to Solve Recurrence Relations"
+    },
+    "prerequisites": [],
+    "parents": ["0185e0f8-73a7-4797-bb13-71e3cc4efc8d"]
+  }
+]
