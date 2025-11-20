@@ -42,7 +42,16 @@
       "en_text": "Multiplication Principle"
     },
     "prerequisites": [],
-    "parents": ["5c83d03e-d6d1-4f90-85f5-a6f3ca8798d6"]
+    "parents": ["46f09ade-4911-49e0-9a61-6321bac6060a"]
+  },
+  {
+    "id": "8a7f3c2e-9b1d-4e5f-a3c8-7d6e5f4a9b2c",
+    "title": {
+      "he_text": "עקרון ההפרדה",
+      "en_text": "Separation Principle"
+    },
+    "prerequisites": [],
+    "parents": ["46f09ade-4911-49e0-9a61-6321bac6060a"]
   },
   {
     "id": "d43c50ad-3ea6-4085-ae93-36f4adcf4c44",
