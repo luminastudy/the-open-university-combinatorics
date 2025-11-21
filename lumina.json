@@ -9,22 +9,13 @@
     "parents": []
   },
   {
-    "id": "5c83d03e-d6d1-4f90-85f5-a6f3ca8798d6",
-    "title": {
-      "he_text": "עקרון החיבור ועקרון הכפל",
-      "en_text": "Addition and Multiplication Principles"
-    },
-    "prerequisites": [],
-    "parents": ["7332c086-501f-4b40-8b75-9437459467e1"]
-  },
-  {
     "id": "46f09ade-4911-49e0-9a61-6321bac6060a",
     "title": {
       "he_text": "עקרון החיבור",
       "en_text": "Addition Principle"
     },
     "prerequisites": [],
-    "parents": ["5c83d03e-d6d1-4f90-85f5-a6f3ca8798d6"]
+    "parents": ["7332c086-501f-4b40-8b75-9437459467e1"]
   },
   {
     "id": "1e9daa6d-e773-4e59-90bf-86fa6e13acfa",
@@ -32,8 +23,8 @@
       "he_text": "עקרון הכפל",
       "en_text": "Multiplication Principle"
     },
-    "prerequisites": [],
-    "parents": ["46f09ade-4911-49e0-9a61-6321bac6060a"]
+    "prerequisites": ["46f09ade-4911-49e0-9a61-6321bac6060a"],
+    "parents": ["7332c086-501f-4b40-8b75-9437459467e1"]
   },
   {
     "id": "8a7f3c2e-9b1d-4e5f-a3c8-7d6e5f4a9b2c",
@@ -41,8 +32,8 @@
       "he_text": "עקרון ההפרדה",
       "en_text": "Separation Principle"
     },
-    "prerequisites": [],
-    "parents": ["46f09ade-4911-49e0-9a61-6321bac6060a"]
+    "prerequisites": ["46f09ade-4911-49e0-9a61-6321bac6060a"],
+    "parents": ["7332c086-501f-4b40-8b75-9437459467e1"]
   },
   {
     "id": "d43c50ad-3ea6-4085-ae93-36f4adcf4c44",
@@ -50,7 +41,7 @@
       "he_text": "חליפות, תמורות וצירופים",
       "en_text": "Permutations and Combinations"
     },
-    "prerequisites": ["5c83d03e-d6d1-4f90-85f5-a6f3ca8798d6"],
+    "prerequisites": ["46f09ade-4911-49e0-9a61-6321bac6060a"],
     "parents": ["7332c086-501f-4b40-8b75-9437459467e1"]
   },
   {
@@ -150,7 +141,7 @@
       "en_text": "Inclusion-Exclusion Principle"
     },
     "prerequisites": [
-      "5c83d03e-d6d1-4f90-85f5-a6f3ca8798d6",
+      "46f09ade-4911-49e0-9a61-6321bac6060a",
       "d43c50ad-3ea6-4085-ae93-36f4adcf4c44"
     ],
     "parents": ["7332c086-501f-4b40-8b75-9437459467e1"]
@@ -206,7 +197,7 @@
       "he_text": "עקרון שובך היונים – הגדרה ושימושים",
       "en_text": "Pigeonhole Principle - Definition and Applications"
     },
-    "prerequisites": ["5c83d03e-d6d1-4f90-85f5-a6f3ca8798d6"],
+    "prerequisites": ["46f09ade-4911-49e0-9a61-6321bac6060a"],
     "parents": ["7332c086-501f-4b40-8b75-9437459467e1"]
   },
   {
