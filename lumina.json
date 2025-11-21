@@ -18,15 +18,6 @@
     "parents": ["7332c086-501f-4b40-8b75-9437459467e1"]
   },
   {
-    "id": "3e04b402-be97-4b02-b477-672a7cbb4130",
-    "title": {
-      "he_text": "כמה בעיות ספירה פשוטות",
-      "en_text": "Some Simple Counting Problems"
-    },
-    "prerequisites": [],
-    "parents": ["5c83d03e-d6d1-4f90-85f5-a6f3ca8798d6"]
-  },
-  {
     "id": "46f09ade-4911-49e0-9a61-6321bac6060a",
     "title": {
       "he_text": "עקרון החיבור",
