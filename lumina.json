@@ -137,13 +137,10 @@
   {
     "id": "2d2686c7-3241-4f52-adc0-d31016804910",
     "title": {
-      "he_text": "עקרון ההכלה וההפרדה",
-      "en_text": "Inclusion-Exclusion Principle"
+      "he_text": "עקרון ההכלה",
+      "en_text": "Inclusion Principle"
     },
-    "prerequisites": [
-      "46f09ade-4911-49e0-9a61-6321bac6060a",
-      "d43c50ad-3ea6-4085-ae93-36f4adcf4c44"
-    ],
+    "prerequisites": ["1e9daa6d-e773-4e59-90bf-86fa6e13acfa"],
     "parents": ["7332c086-501f-4b40-8b75-9437459467e1"]
   },
   {
